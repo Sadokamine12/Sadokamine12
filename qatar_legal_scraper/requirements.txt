@@ -1,0 +1,17 @@
+# Python dependencies for Qatar Legal Scraper
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Optional: For advanced features
+# selenium>=4.0.0  # For JavaScript-heavy pages
+# playwright>=1.40.0  # Alternative for dynamic content

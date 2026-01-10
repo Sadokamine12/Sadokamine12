@@ -1,0 +1,55 @@
+{
+  "name": "qatar-legal-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for Al Meezan Qatar legal portal - extracts and structures legal data for ML",
+  "main_script": "scraper.py",
+  "author": "Sadok Amine Ben Khalfallah",
+  "repository": "https://github.com/Sadokamine12/Sadokamine12",
+  "
+": "Educational/Research",
+  "language": "Python 3.8+",
+  
+  "data_source": {
+    "name": "Al Meezan",
+    "url": "https://almeezan.qa/",
+    "description": "Qatar's official legal portal",
+    "content_type": "Legal documents (laws, regulations, decisions)",
+    "language": "Arabic (with English translations)"
+  },
+  
+  "output_formats": [
+    "CSV",
+    "JSON",
+    "Pandas DataFrame"
+  ],
+  
+  "ml_ready_features": [
+    "category_encoded",
+    "title_length",
+    "title_word_count",
+    "description_length",
+    "description_word_count",
+    "years_since_publication",
+    "decade"
+  ],
+  
+  "scraping_config": {
+    "default_delay": 1.0,
+    "default_language": "ar",
+    "max_pages_per_category": 3,
+    "categories": ["laws", "regulations", "decisions"],
+    "timeout": 30
+  },
+  
+  "data_fields": {
+    "category": "Type of legislation",
+    "title": "Full title of the document",
+    "number": "Document number",
+    "year": "Year of publication",
+    "date": "Publication date",
+    "url": "Direct link to document",
+    "description": "Summary or description",
+    "status": "Document status",
+    "extracted_at": "Timestamp of extraction"
+  }
+}
