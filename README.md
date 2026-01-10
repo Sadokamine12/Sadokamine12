@@ -40,6 +40,15 @@
 ## 🧪 Machine Learning Projects
 *(University, personal & practice projects)*
 
+### 🔹 Qatar Legal Data Scraper & ML Tool
+- **Web scraping** Al Meezan Qatar legal portal (https://almeezan.qa/)
+- Extracts and structures **legal documents for ML** (laws, regulations, decisions)
+- **ML-ready dataset** with feature engineering (text stats, temporal features)
+- **Complete pipeline**: scraping → preprocessing → ML analysis
+- Includes **100 sample records**, Jupyter notebook, and comprehensive docs
+- Tools: `Python`, `BeautifulSoup`, `Pandas`, `Scikit-learn`
+- 📂 **[View Project →](qatar_legal_scraper/)**
+
 ### 🔹 House Price Prediction (Regression)
 - Applied **Decision Trees & MAE evaluation**
 - Feature selection and train/validation split

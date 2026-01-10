@@ -5,7 +5,7 @@ Quick Start Example - Al Meezan Qatar Legal Data Scraper
 This script demonstrates basic usage of the scraper.
 """
 
-from qatar_legal_scraper import AlMeezanScraper
+from scraper import AlMeezanScraper
 import logging
 
 # Configure logging
