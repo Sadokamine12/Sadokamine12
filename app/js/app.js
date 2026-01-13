@@ -22,7 +22,9 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             });
             
             // Close mobile menu if open
-            navMenu.classList.remove('active');
+            if (navMenu) {
+                navMenu.classList.remove('active');
+            }
             
             // Update active link
             document.querySelectorAll('.nav-link').forEach(link => {
