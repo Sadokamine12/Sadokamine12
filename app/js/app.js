@@ -53,11 +53,18 @@ if (contactForm) {
         // Log form data (in a real app, this would be sent to a server)
         console.log('Form submitted:', formData);
         
-        // Show success message
-        alert('Thank you for your message! I\'ll get back to you soon with your app.');
+        // Show success message with visual feedback
+        const submitBtn = contactForm.querySelector('button[type="submit"]');
+        const originalText = submitBtn.textContent;
+        submitBtn.textContent = '✓ تم الإرسال!';
+        submitBtn.style.background = '#10b981';
         
-        // Reset form
-        contactForm.reset();
+        // Reset form and button after delay
+        setTimeout(() => {
+            contactForm.reset();
+            submitBtn.textContent = originalText;
+            submitBtn.style.background = '';
+        }, 2000);
     });
 }
 
@@ -207,5 +214,7 @@ const createCursor = () => {
     });
 };
 
-// Uncomment to enable custom cursor
+// Optional: Enable custom cursor for desktop users
+// Uncomment the line below to add a custom cursor effect
+// This feature enhances the visual experience but is disabled by default for broader compatibility
 // createCursor();
