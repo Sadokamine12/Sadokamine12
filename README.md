@@ -15,6 +15,23 @@
 
 ---
 
+## 🎨 Figma to App Development
+
+**Yes, I can create apps from Figma AI designs!**
+
+📱 **[Demo App](./app/)** - See a live example of what I can build  
+📖 **[Figma to App Guide](./FIGMA_TO_APP_GUIDE.md)** - Learn how to share your design
+
+I can convert your Figma designs into:
+- Fully functional web applications
+- Responsive, mobile-first layouts
+- Clean, production-ready code
+- Interactive user interfaces
+
+Just share your Figma design link and requirements!
+
+---
+
 ## 🧠 Areas of Interest
 - Machine Learning (Supervised & Unsupervised)
 - Data Analysis & Feature Engineering
@@ -25,6 +42,8 @@
 ---
 
 ## 🛠️ Languages & Tools
+
+### Data Science & ML
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
@@ -32,7 +51,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+</p>
+
+### Web Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</p>
+
+### Tools
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
