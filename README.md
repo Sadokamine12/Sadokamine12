@@ -63,11 +63,13 @@ My focus is turning data into something useful and understandable: clean analysi
 | 🇩🇪 German | telc B2 |
 | 🇬🇧 English | Professional working proficiency |
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadokamine12&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadokamine12&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
+  <a href="https://github.com/Sadokamine12?tab=followers"><img src="https://img.shields.io/github/followers/Sadokamine12?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=22d3ee&labelColor=0d1526" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-2dd4bf?style=for-the-badge&labelColor=0d1526" alt="Focus: Data Science" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1526" alt="Main language: Python" />
+  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-22d3ee?style=for-the-badge&labelColor=0d1526" alt="Learning: Machine Learning" />
 </p>
 
 ## 📫 Contact
