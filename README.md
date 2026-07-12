@@ -1,28 +1,30 @@
-# Sadok Amine Ben Khalfallah
+<div align="center">
+  <img src="./assets/banner.svg" alt="Sadok Amine Ben Khalfallah — Data Science Student, Python & Analytics, Machine Learning" width="100%" />
+</div>
 
-### Data Science Student · Python & Analytics · Machine Learning · IT & QA
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadok-amine-ben-khalfallah-15a88a166/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/sadokamine12"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:sadok.khalfallah94@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sadokamine12"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadok-amine-ben-khalfallah-15a88a166/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-sadokamine12-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sadokamine12)
-[![GitHub](https://img.shields.io/badge/GitHub-Sadokamine12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadokamine12)
+<div align="center">
+  <img src="./assets/stats.svg" alt="B.Sc. Data Science · 4 Languages · Core Stack · Open to Werkstudent" width="100%" />
+</div>
 
-**Based in Germany · Open to Werkstudent, internship, Ausbildung, junior Data Analyst, junior Python, QA testing, and AI automation roles**
+## 🚀 About Me
 
----
+I am a **Bachelor Data Science student at Universität Augsburg** (2nd semester) who learns by shipping small, complete projects — from raw data all the way to a clear, well-documented result.
 
-## About Me
+My focus is turning data into something useful and understandable: clean analysis, honest metrics, and readable documentation. My goal is to grow into a **Werkstudent or junior data/IT role in Germany**, contributing real work while I finish my degree.
 
-I am a **Bachelor Data Science student at Universität Augsburg** (2nd semester), focused on building practical, well-documented projects in Python, machine learning foundations, and data analysis.
+- 📈 Currently building projects in **data analysis, machine-learning foundations, and reproducible notebooks**
+- 🧪 Prior hands-on experience in **IT support and data/product support**
+- 🎯 I care about **connecting technical work with business value** — what a project solves and who it helps
+- 🌍 Multilingual: **Arabic (native), French, German (telc B2), English**
 
-I learn by shipping small, complete projects that show the full workflow — from raw data to a clear result — rather than isolated exercises. My goal is to connect technical work with business value and grow into a Werkstudent or junior data/IT role in Germany.
-
-- Currently working on **data analysis, machine-learning foundations, and reproducible notebooks**
-- Prior hands-on experience in **IT support and data/product support** (see CV)
-- Multilingual: **Arabic (native), French, German (telc B2), English**
-
----
-
-## Tech Stack
+## 🧰 Tech Stack
 
 | Domain | Tools |
 | --- | --- |
@@ -31,57 +33,48 @@ I learn by shipping small, complete projects that show the full workflow — fro
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) |
 | **Workflow & Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
----
-
-## Featured Projects
+## 📌 Featured Projects
 
 | Project | What it shows | Status |
 | --- | --- | --- |
-| **[ML Foundations Project](https://github.com/Sadokamine12/ml-foundations-project)** — classification (KNN), regression, and clustering (k-Means) with scikit-learn, including train/test split, evaluation metrics, and plots. | End-to-end ML workflow: prepare data → train → predict → evaluate → visualize. | ✅ Complete |
-| **[Student Performance Analytics](https://github.com/Sadokamine12/student-performance-analytics)** — EDA and a baseline performance-risk model on a clearly labelled simulated dataset. | Connecting analysis to a real-world education problem and communicating findings responsibly. | 🚧 In progress |
+| **[ML Foundations Project](https://github.com/Sadokamine12/ml-foundations-project)**<br/>Classification (KNN), regression, and clustering (k-Means) with scikit-learn — train/test split, evaluation metrics, and plots. | The full ML workflow: prepare data → train → predict → evaluate → visualize. | ✅ Complete |
+| **[Student Performance Analytics](https://github.com/Sadokamine12/student-performance-analytics)**<br/>EDA and a baseline performance-risk model on a clearly labelled simulated dataset, with real metrics and honest limitations. | Connecting analysis to a real-world problem and communicating results responsibly. | ✅ Complete |
 
-> Projects marked *In progress* are being actively built. I keep READMEs honest about what is finished versus planned.
+## 🎯 What I Bring
 
----
+- **Practical learning speed** — I build small, complete projects that show the whole workflow, not isolated snippets.
+- **Business-oriented thinking** — I explain what a project solves, who benefits, and why the result matters.
+- **Clear documentation** — readable READMEs, sensible structure, and honest findings that separate results from limitations.
+- **Germany-ready** — based in Germany, telc B2 German, open to Werkstudent, internship, Ausbildung, and junior data/IT roles.
 
-## What I Bring
-
-- **Practical learning speed** — I build small, complete projects that demonstrate the full workflow.
-- **Business-oriented thinking** — I explain what a project solves, who it helps, and why the result matters.
-- **Clear documentation** — readable READMEs, sensible project structure, and honest findings summaries.
-- **Germany-ready** — based in Germany, telc B2 German, open to Werkstudent, internship, Ausbildung, QA, and junior data/IT roles.
-
----
-
-## Current Learning Focus
+## 📚 Currently Learning
 
 - Machine-learning foundations with scikit-learn
 - SQL for data analysis and reporting
 - Data visualization and clear result communication
 - Reproducible project structure and documentation
 
----
-
-## Languages
+## 🌐 Languages
 
 | Language | Level |
 | --- | --- |
-| Arabic | Native |
-| French | Fluent / academic working language |
-| German | telc B2 |
-| English | Professional working proficiency |
+| 🇹🇳 Arabic | Native |
+| 🇫🇷 French | Fluent / academic working language |
+| 🇩🇪 German | telc B2 |
+| 🇬🇧 English | Professional working proficiency |
 
----
+## 📊 GitHub Stats
 
-## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadokamine12&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadokamine12&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
+</p>
 
-![Sadok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadokamine12&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadokamine12&layout=compact&hide_border=true)
+## 📫 Contact
 
----
+Open to **Werkstudent roles, internships, Ausbildung, junior Data Analyst, junior Python, QA testing, and AI automation opportunities in Germany.** German CV available on request.
 
-## Contact
-
-Open to **Werkstudent roles, internships, Ausbildung, QA testing, junior Data Analyst, junior Python, and AI automation opportunities in Germany.** German CV available on request.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadok-amine-ben-khalfallah-15a88a166/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadok-amine-ben-khalfallah-15a88a166/"><img src="https://img.shields.io/badge/LinkedIn-Contact-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sadok.khalfallah94@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>

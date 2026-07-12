@@ -1,0 +1,43 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1122"/>
+      <stop offset="0.55" stop-color="#0e1a30"/>
+      <stop offset="1" stop-color="#0a1424"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.25" r="0.6">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="360" rx="20" fill="url(#glow)"/>
+  <rect x="0" y="0" width="7" height="360" rx="3" fill="url(#accent)"/>
+
+  <g fill="#22d3ee" opacity="0.12">
+    <circle cx="930" cy="120" r="2.5"/><circle cx="970" cy="120" r="2.5"/><circle cx="1010" cy="120" r="2.5"/><circle cx="1050" cy="120" r="2.5"/><circle cx="1090" cy="120" r="2.5"/><circle cx="1130" cy="120" r="2.5"/>
+    <circle cx="930" cy="160" r="2.5"/><circle cx="970" cy="160" r="2.5"/><circle cx="1010" cy="160" r="2.5"/><circle cx="1050" cy="160" r="2.5"/><circle cx="1090" cy="160" r="2.5"/><circle cx="1130" cy="160" r="2.5"/>
+  </g>
+  <g stroke="#2dd4bf" stroke-width="1.5" opacity="0.22" fill="none">
+    <path d="M905 250 q60 -40 120 0 t120 0"/>
+    <path d="M905 275 q60 -40 120 0 t120 0" opacity="0.6"/>
+  </g>
+
+  <!-- OPEN badge -->
+  <g transform="translate(921,42)">
+    <rect x="0" y="0" width="236" height="34" rx="17" fill="#0d2b2e" stroke="#2dd4bf" stroke-opacity="0.55"/>
+    <circle cx="22" cy="17" r="5" fill="#2dd4bf"/>
+    <text x="40" y="22" fill="#7fe7dc" font-size="13" font-weight="600" letter-spacing="1.2">OPEN TO WERKSTUDENT</text>
+  </g>
+
+  <text x="56" y="152" fill="#ffffff" font-size="50" font-weight="800" letter-spacing="0.5">Sadok Amine Ben Khalfallah</text>
+  <text x="58" y="193" fill="url(#accent)" font-size="25" font-weight="700">Data Science Student · Python &amp; Analytics · Machine Learning</text>
+  <text x="58" y="235" fill="#8aa0bd" font-size="17">Python  ·  pandas  ·  NumPy  ·  scikit-learn  ·  SQL  ·  Jupyter  ·  Git</text>
+  <text x="58" y="287" fill="#c8d6ea" font-size="17">Building practical, well-documented data projects — from raw data to a clear result.</text>
+  <text x="58" y="313" fill="#8aa0bd" font-size="15">B.Sc. Data Science @ Universität Augsburg  ·  Based in Germany  ·  telc B2 Deutsch</text>
+</svg>
